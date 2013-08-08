@@ -1,0 +1,6 @@
+/Pastebin/bin
+/PasteBinSharp/bin
+/PasteBinSharp/obj
+/*.user
+/*.suo
+/Pastebin/obj
